@@ -1,0 +1,1 @@
+// p is pointer and q is integer
